@@ -1,1 +1,1 @@
-The source code and datasets for the paper 'LATTE: a joint entity and relation extraction model based on low-rank attention mechanisms and residual task-aware bottleneck' will be released in this repository upon theacceptance of the manuscript."
+The source code and datasets for the paper 'LATTE: a joint entity and relation extraction model based on low-rank attention mechanisms and residual task-aware bottleneck' will be released in this repository upon the acceptance of the manuscript."
